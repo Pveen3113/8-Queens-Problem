@@ -1,1 +1,2 @@
 # 8 QUEENS CHESS PROBLEM
+This program is designed to accept 8 queen position on a chess board as an input. The program will display the queens that are attcking each other and in which position the queens are sitauted.It displays as feasible solution if there is no queens attacking each other and infeasible solution if there are atleast one queen attacking each other. It is a hard coded program without using any libraries.
